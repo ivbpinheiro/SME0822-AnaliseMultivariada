@@ -1,1 +1,1 @@
-# SME0822-AnaliseMultivariada
+# SME0822 - Análise Multivariada e Aprendizado Não Supervisionado
